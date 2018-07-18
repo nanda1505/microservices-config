@@ -24,7 +24,3 @@ zuul:
         path: /card-statement-composite/**
         serviceId: card-statement-composite
         stripPrefix: true
-    discovery-service:
-        path: /eureka/**
-        serviceId: discovery-service
-        stripPrefix: true
